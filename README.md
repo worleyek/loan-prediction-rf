@@ -22,7 +22,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 1. Dataset (`loan-train.csv`)
 2. Data dictionary (`data-dictionary.jpg`)
 3. Random forest model creation (`loan-approval-model.ipynb`)
-4. Sample decision tree from random forest model (`decision-tree.jpg`)
+4. Sample decision tree from random forest model (`decision-tree.png`)
 5. Web app Python code (`loan-app.py`)
 
 ---
