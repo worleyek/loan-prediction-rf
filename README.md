@@ -1,4 +1,4 @@
-## Loan Approval Prediction: Random Forest Model & Deployed Web App
+## Loan Approval Prediction: Random Forest Model & Deployed [Web App](https://loan-prediction-worleyek.streamlit.app/)
 
 ### Project Purpose:
 To create a full machine learning project from scratch to deployment.
@@ -14,16 +14,16 @@ To accurately predict loan approvals without falsely approving too many loans th
 ### Deliverable:
 A web app that end users can utilize to predict loan approvals using a Random Forest model on the backend. Includes configurable credit score guideline in `loan-app.py`. 
 
-    https://worleyek-loan-prediction-rf.streamlit.app/
+    https://loan-prediction-worleyek.streamlit.app/
 
 ---
 
 ### In Repository:
-1. Dataset (`loan-train.csv`)
-2. Data dictionary (`data-dictionary.jpg`)
-3. Random forest model creation (`loan-approval-model.ipynb`)
-4. Sample decision tree from random forest model (`decision-tree.png`)
-5. Web app Python code (`loan-app.py`)
+1. Dataset (`loan_train.csv`)
+2. Data dictionary (`data_dictionary.jpg`)
+3. Random forest model creation (`loan_approval_model.ipynb`)
+4. Sample decision tree from random forest model (`decision_tree.png`)
+5. Web app Python code (`loan_app.py`)
 
 ---
 
