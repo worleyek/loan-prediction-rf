@@ -6,7 +6,7 @@ To create a full machine learning project from scratch to deployment.
 ### Business Case:
 To create a model that accurately predicts loan approval and automates the approval process.
 
-### Goal:
+### Goal: 
 To accurately predict loan approvals without falsely approving too many loans that should be denied (minimize false positives).
 
 ---
@@ -42,7 +42,7 @@ The model achieves a recall of `0.985`, meaning it correctly identifies nearly a
 
 **F1 Score:**
 
-The F1 score of `0.88` reflects a strong overall balance between precision and recall. It indicates that while the model prioritizes capturing all eligible applicants (high recall), it still maintains reasonable accuracy in its approval predictions (moderate precision).
+The F1 score of `0.88` reflects a strong overall balance between precision and recall. This indicates that while the model prioritizes capturing all eligible applicants (high recall), it still maintains reasonable accuracy in its approval predictions (moderate precision).
 
 **Accuracy:**
 
